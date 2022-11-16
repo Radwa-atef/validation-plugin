@@ -6,6 +6,7 @@ export default {
     return {
       name: "",
       email: "",
+      age:""
     };
   },
   validations: {
